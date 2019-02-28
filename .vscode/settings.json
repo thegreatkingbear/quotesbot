@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/anaconda2/envs/py3/bin/python",
+    "python.linting.pylintEnabled": true
+}
